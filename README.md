@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I am Clumsy af**
 
-### Blogs posts
+<!--### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
