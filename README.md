@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
   <h1 align="center">Hi 👋, I'm Aastha Tiwari</h1>
 <h3 align="center">A final-Year, BTech Student.</h3>
-<h1 align="center">Upcoming Analyst - Deloitte</h1>
+<h1 align="center">Upcoming Analyst - Deloitte USI</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taastha19&label=Profile%20views&color=0e75b6&style=flat" alt="taastha19" /> </p>
 
